@@ -1,0 +1,2 @@
+Part 1: answer = 17085
+Part 2: answer = 169408143086082
